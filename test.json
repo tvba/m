@@ -609,334 +609,64 @@
   ],
   "parses": [
     {
-      "name": "默认选项",
-      "type": 3,
-      "url": "Demo"
+      "name": "默认解析建议必选此项",
+      "type": 2,
+      "url": "Parallel"
     },
     {
       "name": "猫群专用解析y1",
-      "type": 1,
-      "url": "http://chaloli.cn/home/api?type=ys&uid=705072&key=abcdegipstBCFMSVZ6&url=",
-      "ext": {
-        "flag": [
-          "youku",
-          "qq",
-          "iqiyi",
-          "qiyi",
-          "letv",
-          "sohu",
-          "letv",
-          "tudou",
-          "pptv",
-          "mgtv",
-          "wasu",
-          "bilibili",
-          "leduo",
-          "fq3",
-          "fq4",
-          "xueren",
-          "duoduo",
-          "duoduozy",
-          "miaoparty",
-          "miaoparty2",
-          "miaoparty3",
-          "renrenmi",
-          "优酷",
-          "芒果",
-          "腾讯",
-          "爱奇艺",
-          "奇艺",
-          "ltnb",
-          "rx",
-          "CL4K",
-          "xfyun",
-          "wuduzy"
-        ]
-      }
+      "type":1,
+      "url": "http://chaloli.cn/home/api?type=ys&uid=705072&key=abcdegipstBCFMSVZ6&url="
     },
     {
-
       "name": "猫群专用解析y2",
-      "type": 1,
-      "url": "http://chaloli.cn/home/api?type=ys&uid=705072&key=abcdegipstBCFMSVZ6&fs=sm&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "pptv",
-          "PPTV",
-          "ltnb",
-          "rrtv",
-          "rx",
-          "xueren",
-          "duoduozy",
-          "fq3",
-          "fq4",
-          "xlm3u8",
-          "kbm3u8",
-          "bjm3u8",
-          "hnm3u8",
-          "wjm3u8",
-          "CL4K",
-          "xfyun",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "renrenmi",
-          "duoduo",
-          "wudu",
-          "ltnb",
-          "rx"
-        ]
-      }
+      "type":1,
+      "url": "http://chaloli.cn/home/api?type=ys&uid=778974&key=benopqtxyzGIJMXZ18&fs=hz&url="
     },
     {
       "name": "猫群专用解析y3",
+      "type":1,
+      "url": "http://chaloli.cn/home/api?type=ys&uid=778974&key=benopqtxyzGIJMXZ18&fs=sm&url="
+    },
+    {
+      "name": "猫群专用解析y4",
+      "type":1,
+      "url": "http://chaloli.cn/home/api?type=ys&uid=778974&key=benopqtxyzGIJMXZ18&url="
+    },
+    {
+      "name": "猫群专用解析02",
       "type": 1,
-      "url": "http://chaloli.cn/home/api?type=ys&uid=778974&key=benopqtxyzGIJMXZ18&fs=sm&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "pptv",
-          "PPTV",
-          "ltnb",
-          "rrtv",
-          "rx",
-          "xueren",
-          "duoduozy",
-          "fq3",
-          "fq4",
-          "xlm3u8",
-          "kbm3u8",
-          "bjm3u8",
-          "hnm3u8",
-          "wjm3u8",
-          "CL4K",
-          "xfyun",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "renrenmi",
-          "duoduo",
-          "wudu",
-          "ltnb",
-          "rx"
-        ]
-      }
+      "url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url="
+    },
+    {
+      "name": "猫群专用解析03",
+      "type": 1,
+      "url": "https://sz.dxzj88.com/jxrjrm/jiaomi.php?url="
     },
     {
       "name": "猫群专用解析04",
       "type": 1,
-      "url": "https://vip.nicefamily.club/api/?key=W3VmSonE0VCYTNmNyV&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "奇艺",
-          "youku",
-          "优酷",
-          "rrtv",
-          "rx",
-          "xueren",
-          "fq3",
-          "fq4",
-          "xlm3u8",
-          "kbm3u8",
-          "bjm3u8",
-          "hnm3u8",
-          "wjm3u8",
-          "xfyun",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "renrenmi",
-          "ltnb"
-        ]
-      }
+      "url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url="
     },
     {
-      "name": "猫群专用解析05",
+      "name": "猫群专用解析01",
       "type": 1,
-      "url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
-      "ext": {
-        "flag": [
-          "Itnb",
-          "renrenmi"
-        ]
-      }
+      "url": "http://api.vip123kan.vip/?url="
     },
     {
       "name": "猫群专用解析06",
       "type": 1,
-      "url": "http://api.vip123kan.vip/?url=",
-      "ext": {
-        "flag": [
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "xigua",
-          "奇艺"
-        ]
-      }
+      "url": "https://svip.rongxingvr.top/api/?key=niBgMGXVdCQhsmeEBK&url="
     },
     {
       "name": "猫群专用解析07",
       "type": 1,
-      "url": "https://sz.dxzj88.com/jxrjrm/jiaomi.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "pptv",
-          "mgtv",
-          "letv",
-          "leduo",
-          "ltnb",
-          "rrtv",
-          "rx",
-          "xueren",
-          "duoduozy",
-          "fq3",
-          "fq4",
-          "xlm3u8",
-          "kbm3u8",
-          "bjm3u8",
-          "hnm3u8",
-          "wjm3u8",
-          "CL4K",
-          "xfyun",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "renrenmi",
-          "miaoparty",
-          "miaoparty2",
-          "miaoparty3",
-          "wuduzy",
-          "ltnb"
-        ]
-      }
+      "url": "http://23.224.174.74:5583/jsonindex.php?url="
     },
     {
       "name": "猫群专用解析08",
       "type": 1,
-      "url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
-      "ext": {
-        "flag": [
-          "ltnb",
-          "renrenmi",
-          "weiyun"
-        ]
-      }
-    },
-    {
-      "name": "猫群专用解析09",
-      "type": 1,
-      "url": "https://svip.rongxingvr.top/api/?key=niBgMGXVdCQhsmeEBK&url=",
-      "ext": {
-        "flag": [
-          "youku",
-          "qq",
-          "letv",
-          "sohu",
-          "tudou",
-          "rx",
-          "mgtv",
-          "wasu",
-          "bilibili",
-          "renrenmi",
-          "优酷",
-          "芒果"
-        ]
-      }
-    },
-    {
-      "name": "猫群专用解析10",
-      "type": 1,
-      "url": "https://sz.dxzj88.com/jxrjrm/jiaomi.php?url=",
-      "ext": {
-        "flag": [
-          "youku",
-          "qq",
-          "iqiyi",
-          "qiyi",
-          "letv",
-          "sohu",
-          "letv",
-          "tudou",
-          "pptv",
-          "mgtv",
-          "wasu",
-          "bilibili",
-          "leduo",
-          "fq3",
-          "fq4",
-          "xueren",
-          "duoduo",
-          "duoduozy",
-          "miaoparty",
-          "miaoparty2",
-          "miaoparty3",
-          "renrenmi",
-          "优酷",
-          "芒果",
-          "腾讯",
-          "爱奇艺",
-          "奇艺",
-          "ltnb",
-          "rx",
-          "CL4K",
-          "xfyun",
-          "wuduzy"
-        ]
-      }
-    },
-    {
-      "name": "猫群专用解析11",
-      "type": 1,
-      "url": "https://json.5lp.net/json.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "renrenmi",
-          "rx",
-          "rongxing"
-        ]
-      }
+      "url": "https://sz.dxzj88.com/jxrjrm/jiaomi.php?url="
     }
   ],
   "flags": [
