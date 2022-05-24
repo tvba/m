@@ -1006,7 +1006,7 @@
             "url": "Sequence"
         },
         {
-            "name": "Pro",
+            "name": "Pro1",
             "type": 1,
             "url": "http://api.vip123kan.vip/?url=",
             "ext": {
@@ -1025,9 +1025,47 @@
             }
         },
         {
+            "name": "Pro2",
+            "type": 1,
+            "url": "http://chaloli.cn/home/api?type=ys&uid=705072&key=abcdegipstBCFMSVZ6&fs=sm&url=",
+            "ext": {
+                "flag": [
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "qq",
+                    "奇艺"
+                ]
+            }
+        },
+        {
+            "name": "Pro3",
+            "type": 1,
+            "url": "http://www.youhuifuligou.com/json/?id=7&url=",
+            "ext": {
+                "flag": [
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "qq",
+                    "奇艺"
+                ]
+            }
+        },
+        {
             "name": "bilibili",
             "type": 1,
-            "url": "https://vip.23at.cn/home/api?type=ys&uid=4883852&key=adfimsvxzDKNOVX389&url=",
+            "url": "http://chaloli.cn/home/api?type=ys&uid=705072&key=abcdegipstBCFMSVZ6&url=",
             "ext": {
                 "flag": [
                     "bilibili"
@@ -1045,9 +1083,9 @@
             }
         },
         {
-            "name": "duoduozy2",
+            "name": "duoduozy",
             "type": 1,
-            "url": "https://a.dxzj88.com/jxjx/dd.php?url=",
+            "url": "https://bo.duoduozy.cc/ff/api.php?url=",
             "ext": {
                 "flag": [
                     "duoduozy"
@@ -1075,7 +1113,7 @@
             }
         },
         {
-            "name": "Pro2",
+            "name": "Pro4",
             "type": 1,
             "url": "https://vip.rongxingvr.top/api/?type=ys&key=JJEZkZIhzkA4cUtBfR&url=",
             "ext": {
