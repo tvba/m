@@ -1044,16 +1044,18 @@
             }
         },
         {
-            "name": "bilibili",
+            "name": "hfyrw",
             "type": 1,
-            "url": "http://chaloli.cn/home/api?type=ys&uid=705072&key=abcdegipstBCFMSVZ6&url=",
+            "url": "https://json.hfyrw.com/mao.go?url=",
             "ext": {
                 "flag": [
-                    "bilibili"
+                    "ltnb",
+                    "renrenmi"
                 ]
             }
         },
         {
+           
             "name": "leduo",
             "type": 1,
             "url": "https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid=",
@@ -1358,18 +1360,7 @@
             }
         },
         {
-            "name": "hfyrw",
-            "type": 1,
-            "url": "https://json.hfyrw.com/mao.go?url=",
-            "ext": {
-                "flag": [
-                    "ltnb",
-                    "renrenmi"
-                ]
-            }
-        },
-        {
-            "name": "aiaine02",
+ "name": "aiaine02",
             "type": 1,
             "url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
             "ext": {
