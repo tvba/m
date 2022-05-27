@@ -12,13 +12,13 @@
 
 # 02.🦖 (非官方) 唐三大佬维护接口:
 # Github --> https://github.com/Tangsan99999/Tangsan99999.github.io
-"spider":"https://raw.fastgit.org/Tangsan99999/Tangsan99999.github.io/master/custom_spider.jar",
+//"spider":"https://raw.fastgit.org/Tangsan99999/Tangsan99999.github.io/master/custom_spider.jar",
 
 # 03.🥒 (非官方) 小黄瓜大佬 XBiubiu.jar:
 # Github --> https://github.com/lite-cucumber/CatVodTVSpider
 # 套Biubiu规则
 //"spider":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/Biubiu/XBiubiu.jar",
-//"spider":"img+https://inews.gtimg.com/newsapp_ls/0/14940316852/0.jiketuchuang.png",
+"spider":"img+https://inews.gtimg.com/newsapp_ls/0/14940316852/0.jiketuchuang.png",
 
 
 # 直播
